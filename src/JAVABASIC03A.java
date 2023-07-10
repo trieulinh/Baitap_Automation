@@ -1,4 +1,4 @@
-public class ToantuQuanhe {
+public class JAVABASIC03A {
     int songuyen01;
     int songuyen02;
     String chuoi;
@@ -19,7 +19,7 @@ public class ToantuQuanhe {
      }
 
     public static void main(String[] args) {
-        ToantuQuanhe bieuthuc01 = new ToantuQuanhe();
+        JAVABASIC03A bieuthuc01 = new JAVABASIC03A();
         System.out.println(bieuthuc01.Sosanh01(10,20));
         System.out.println(bieuthuc01.Sosanh02(10F,10F));
         bieuthuc01.Inchuoi("Tôi tên là Nguyễn thụy Triều Linh");

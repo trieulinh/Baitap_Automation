@@ -1,4 +1,4 @@
-public class Calculator {
+public class JAVABASIC02 {
     int a;
     int b;
     float c;
@@ -19,7 +19,7 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        Calculator bieuthuc01 = new Calculator();
+        JAVABASIC02 bieuthuc01 = new JAVABASIC02();
         bieuthuc01.InKetqua(bieuthuc01.TinhTong(10,20),bieuthuc01.TinhTich(8F, 6F));
     }
 

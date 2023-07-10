@@ -1,4 +1,4 @@
-public class MenhdeIF {
+public class JAVABASIC03B {
     int number = 100;
     void Inketqua (int n){
         if (n == number){
@@ -11,7 +11,7 @@ public class MenhdeIF {
     }
 
     public static void main(String[] args) {
-        MenhdeIF bieuthuc = new MenhdeIF();
+        JAVABASIC03B bieuthuc = new JAVABASIC03B();
         bieuthuc.Inketqua(99);
         bieuthuc.Inketqua(100);
         bieuthuc.Inketqua(101);
